@@ -1,4 +1,5 @@
 # Read, Rate, Reflect
+![Book Tracker Logo](https://github.com/vd437/Book-tracker/blob/ed76a031ee6ba6ba38d8166293498772aa4e5517/assets/books.png?raw=true)
 
 **Read, Rate, Reflect** is a simple and organized web application designed to help users track books they've read, rate them, and write personal notes. You can [experience the live demo here](https://preview-4f4b8fe3--read-rate-reflect.lovable.app/). The app features a clean and user-friendly interface, allowing users to manage their reading journey smoothly and comfortably.
 
